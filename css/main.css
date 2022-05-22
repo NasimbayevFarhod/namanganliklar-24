@@ -1,0 +1,300 @@
+body
+{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+}
+
+a
+{
+  text-decoration: none; 
+  color: #000;
+}
+
+p
+{
+  color: #5E5F61;
+}
+
+li
+{
+  list-style: none;
+}
+
+.header-bg
+{
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  background: #F6F6F6;
+}
+
+.zagolovok-nachalo
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+  height: 105px;
+}
+
+.zagolovok-chap
+{
+  display: flex;
+}
+
+.zagolovok-img
+{
+  display: flex;
+  width: 276px;
+  height: 45px;
+}
+
+.zagolovok-valyuta
+{
+  display: flex;
+  font-size: 16px;
+  line-height: 19px;
+  color: #555555;
+}
+
+.z-v-v-simvol
+{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #2959CE;
+}
+
+.zagolovok-chap
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.zagolovok-poisk
+{
+  width: 275px;
+  height: 45px;
+  background: #FFFFFF;
+  border-radius: 60px;
+}
+
+.zagolovok-yaziki
+{
+  width: 70px;
+  height: 36px;
+  display: flex;
+  background-color: #dce6ff;
+  border-radius: 39px;
+}
+
+.yaziki-uz
+{
+  width: 30px;
+  height: 30px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 35px;
+}
+
+.yazik
+{
+  color: #000;
+}
+
+.voyti
+{
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  width: 89px;
+  height: 45px;
+  background: #7296EC;
+  border-radius: 10px;
+}
+
+.nav-list
+{
+  width:1200px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.nav-link
+{
+  font-size: 18px;
+  line-height: 21px;
+  color:#7F7F7F ;
+}
+
+.b-b
+{
+  width:1200px;
+  flex-wrap: wrap;
+}
+
+.b-b-bolim
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0px;
+}
+
+.b-b-sect
+{
+  width: 393px;
+  background-color:#F6F6F6;
+  border-radius: 15px;
+  border: 0px;
+
+}
+
+.b-b-link-asos
+{
+  color: #000;
+}
+
+.b-b-text
+{
+  color:#4A4B4C;
+}
+
+.b-b-mini
+{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.i-k-v
+{
+  color:#5E5F61;
+}
+
+
+
+
+
+
+.v_mire
+{
+  color: #000;
+}
+
+.section-info
+{
+  width:1400px ;
+  display: flex;
+}
+
+.v_mire-ul
+{
+  justify-content: space-between;
+  width: 797px;
+  background-color: #F6F6F6;
+}
+
+.v_mire-pokazat-div
+{
+  background-color: #EAEAEA ;
+  width: 796px;
+}
+
+
+.ikkinchi-qisim
+{
+  width:1200px;
+  display: flex;
+}
+
+.i-q-vmire
+{
+  width: 797px;
+}
+
+.i-qiseksiya
+{
+  width: 797px;
+  left: 120px;
+  display: flex;
+  margin-bottom: 10px;
+  background: #F6F6F6;
+  border-radius: 15px;
+}
+
+
+
+.i-q-yesho
+{
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 796px;
+  background: #EAEAEA;
+  border-radius: 10px;
+}
+
+
+.i-q-p-yeshyo
+{
+  color: #000;
+ 
+}
+
+.podval
+{
+  width: 1440px;
+  align-items: center;
+  background-color: #7297EF;
+}
+
+.p-first
+{
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+}
+
+.p-inf
+{
+
+}
+
+
+
+
+
+.podval-niz
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.p-n-link
+{
+  display: flex;
+
+  align-items: center;
+}
+
+footer p,footer a
+{
+  color: #fff;
+}
+
+.priduprejdeniye
+{
+  width: 229px;
+  font-weight: 400;
+}
+
+
+
+
